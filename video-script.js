@@ -52,7 +52,7 @@ function passwordFunction() {
   if (newInput.value == "password") {
     let newPage = document.createElement("A");
     newPage.classList.add("newPage");
-    newPage.href = "";
+    newPage.href = "https://youtu.be/sAn7baRbhx4";
     newPage.innerHTML = "Backdoor";
 
     alert("User: King of the Internet // Password: Correct // Welcome")
